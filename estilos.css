@@ -17,3 +17,14 @@ body{
     width: 80%;
     margin: 40px;
 }
+.titulo2{
+    background-color: #005883;
+    text-align:center;
+    color: seashell;
+}
+.ir{
+    font-size:xx-large ;  
+}
+.foto {
+    padding: 10px; margin: 10px; border: 2px solid black; float: right; width: 250px;
+}
