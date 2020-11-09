@@ -1,13 +1,15 @@
 body{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
 }
 
 .titulo{
     text-align:center;
-    
+        
 }
 .menu{
     text-align:center;
+    font-size:x-large ;
     padding: 20;
     background-color: #F0B429;
 }
