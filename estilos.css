@@ -26,7 +26,18 @@ body{
     font-size:xx-large ;  
 }
 .foto {
-    display:block;
-    margin:auto;
-    padding: 10px; margin: 10px; border: 2px solid black; float: right; width: 250px;
+    
+    width: 200px; height: 300px;
+    
+    
+}
+.contenedora{
+    text-align: center;
+    background-color: chartreuse;
+    border: 5px solid black; 
+    width: 200px; height: 300px;
+    display: inline-block;
+    padding: 10px;
+    margin: 100px 100px;
+
 }
