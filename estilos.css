@@ -44,14 +44,13 @@ body{
     }
 
 
-.contenedora{
+.caja{
     text-align: center;
-    background-color: chartreuse;
-    border: 5px solid black; 
-    width: 200px; height: 300px;
+    height: 150px;
     display: inline-block;
     padding: 10px;
     margin: 100px 100px;
+   
 
 }
 .footer{
